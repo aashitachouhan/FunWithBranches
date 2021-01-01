@@ -151,6 +151,9 @@ He has been my guide since I moved into the college, he helped me in selecting t
 - A.T.
 He is really cool and helped me in understanding the edicts of the college.
 
+- V.M.
+He is a great teacher and is very friendly
+
 - P.S.
 He is everywhere to be seen from aparoksha to effervescence, a multitalented senior. Has a very good and helping nature.
 
@@ -170,8 +173,20 @@ He is supportive.
 -V.M 
 Extremely Helpful
 
+<<<<<<< HEAD
 
 -K.T.
 He is the only first year student who cracked GSoC.
 He seems to be very cool and helpful.
+
+=======
+-K.K.
+I know him from my school days and he is very helpful and everytime i asked him he helps me.
+
+-Y.K.
+I joined IIIT A because I know him . He is from my homestate . He always solves my doubts and guides me.
+
+- V.M.
+He is a very helpful, cool and amiable guy.
+He has immense patience while solving the doubts of the freshers.
 
